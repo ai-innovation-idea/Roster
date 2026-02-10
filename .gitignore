@@ -1,0 +1,21 @@
+# Maven
+*.jar
+*.war
+*.ear
+*.class
+*.db
+*.log
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+
+# Spring Boot
+*.properties
+*.yml
+application-*.yml
